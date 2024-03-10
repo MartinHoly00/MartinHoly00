@@ -17,7 +17,7 @@
 
 
 <h3 align="left">Some of my work:</h3>
-<p><a align="left" href="https://martinholy00.github.io/Gamba/">Gamba</a>><br>
+<p><a align="left" href="https://martinholy00.github.io/Gamba/">Gamba</a><br>
 <a align="left" href="https://martinholy00.github.io/Calculator/">Calculator</a><br>
 <a align="left" href="https://martinholy00.github.io/TicTacToe/">Tic-Tac-Toe Game</a><br>
 <a align="left" href="https://martinholy00.github.io/city-clicker/">City Clicker Game</a></p>
