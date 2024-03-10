@@ -20,7 +20,7 @@
 <h3>Portfolio: <a href="./">Work in progress...</a></h3>
 
 <h3 align="left">Some of my work:</h3>
-<a href="https://martinholy00.github.io/Gamba/">Gamba</a>
-<a href="https://martinholy00.github.io/Calculator/">Calculator</a>
-<a href="https://martinholy00.github.io/TicTacToe/">Tic-Tac-Toe Game</a>
-<a href="https://martinholy00.github.io/city-clicker/">City Clicker Game</a>
+<p><a href="https://martinholy00.github.io/Gamba/">Gamba</a></p>
+<p><a href="https://martinholy00.github.io/Calculator/">Calculator</a></p>
+<p><a href="https://martinholy00.github.io/TicTacToe/">Tic-Tac-Toe Game</a></p>
+<p><a href="https://martinholy00.github.io/city-clicker/">City Clicker Game</a></p>
