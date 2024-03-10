@@ -3,7 +3,7 @@
 
 
 <h1 align="left">Hey 👋 What's up?</h1>
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">My name is Martin and I'm a developer, from Liberec</p>
 <h2 align="left">About me</h2>
 <p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
 <h2 align="left">I code with</h2>
@@ -17,10 +17,10 @@
 
 
 <h3 align="left">Some of my work:</h3>
-<p><a href="https://martinholy00.github.io/Gamba/">Gamba</a></p>
-<p><a href="https://martinholy00.github.io/Calculator/">Calculator</a></p>
-<p><a href="https://martinholy00.github.io/TicTacToe/">Tic-Tac-Toe Game</a></p>
-<p><a href="https://martinholy00.github.io/city-clicker/">City Clicker Game</a></p>
+<p><a align="left" href="https://martinholy00.github.io/Gamba/">Gamba</a></p><br>
+<a align="left" href="https://martinholy00.github.io/Calculator/">Calculator</a><br>
+<a align="left" href="https://martinholy00.github.io/TicTacToe/">Tic-Tac-Toe Game</a><br>
+<a align="left" href="https://martinholy00.github.io/city-clicker/">City Clicker Game</a></p>
 
 
 <h3 align="left">Connect with me:</h3>
