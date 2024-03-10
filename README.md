@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Martin Holý</h1>
 <h3 align="center">A developer from Czechia (almost)</h3>
 
+
 <h1 align="left">Hey 👋 What's up?</h1>
 <p align="left">My name is ... and I'm a ..., from ....</p>
 <h2 align="left">About me</h2>
@@ -14,11 +15,13 @@
 
 <h3>Portfolio: <a href="./">Work in progress...</a></h3>
 
+
 <h3 align="left">Some of my work:</h3>
 <p><a href="https://martinholy00.github.io/Gamba/">Gamba</a></p>
 <p><a href="https://martinholy00.github.io/Calculator/">Calculator</a></p>
 <p><a href="https://martinholy00.github.io/TicTacToe/">Tic-Tac-Toe Game</a></p>
 <p><a href="https://martinholy00.github.io/city-clicker/">City Clicker Game</a></p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
