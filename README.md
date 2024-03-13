@@ -2,7 +2,7 @@
 <p align="left">My name is Martin and I'm a developer from Liberec</p>
 
 <h2 align="left">About me</h2>
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning React and React native<br>🏫 I am currently studying at SPŠSE in Liberec.<br>🎯 Goals: Learn React Native and Next.js</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Html, Css, Javascript, Typescript, C# and React<br>🏫 I am currently studying at SPŠSE in Liberec.<br>🎯 Goals: Learn React Native and Next.js</p>
 <h2 align="left">I code with</h2>
 
 
