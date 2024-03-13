@@ -31,7 +31,7 @@
     <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/></a>
   </p>
 
-<h3>Portfolio: <a href="./">Work in progress...</a></h3>
+<h3>Portfolio: <a href="https://martinholy00.github.io/web-portfolio/">Here</a></h3>
 
 <h3 align="left">Some of my work:</h3>
 <p><a align="left" href="https://martinholy00.github.io/Gamba/">Gamba</a><br>
