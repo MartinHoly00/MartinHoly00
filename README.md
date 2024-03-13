@@ -1,9 +1,6 @@
-<h1 align="center">Hi 👋, I'm Martin Holý</h1>
-<h3 align="center">A developer from Czechia (almost)</h3>
-
-
 <h1 align="left">Hey 👋 What's up?</h1>
-<p align="left">My name is Martin and I'm a developer, from Liberec</p>
+<p align="left">My name is Martin and I'm a developer from Liberec</p>
+
 <h2 align="left">About me</h2>
 <p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning React and React native<br>🎯 Goals: Do something :)<br></p>
 <h2 align="left">I code with</h2>
